@@ -1,0 +1,47 @@
+company_name,main_cause,main_cause_detailed,classification,own_thoughts,int_funding,txt_funding,active_years,market_size,total_founders,founders_left
+WeWork,Bankruptcy,"Chapter 11 bankruptcy - $19B lease obligations vs $4B revenue; 90% occupancy unsustainable forbes","Financial Mismanagement","hyper expansion",12900000000,$12.9B,13,$7B,2,"Adam Neumann"
+Theranos,Fraud,"Criminal fraud charges - Blood testing device never worked; SEC fined $500K britannica","Bad Decisions",Fraud,945000000,$945M,15,$39B,1,-
+Quibi,"No users","Criminal fraud charges - Blood testing device never worked; SEC fined $500K britannica","Bad Decisions",fraud,1750000000,$1.75B,2,$50B,2,-
+Jawbone,Debt,"Debt default - Missed $22M interest payment on $125M convertible debt wikipedia","Financial Mismanagement","weak financial planning",930000000,$930M,18,$50B,1,-
+FTX,Fraud,"$8B customer fund shortfall - Bankruptcy revealed commingled funds with Alameda Research","Financial Mismanagement",fraud,1800000000,$1.8B,3,$32T,1,-
+Zenefits,Regulation,"SEC compliance violation - Sold insurance without licensed brokers; $500K fine","Bad Decisions",fraud,584000000,$584M,9,$200B,2,"Parker Conrad"
+Katerra,"Supply chain","Supply chain collapse - Missed $200M vendor payments; Chapter 11 marketrealist","Stretegic Miscalculation","weak stretigic planning",2000000000,$2B,6,$1T,2,-
+"Argo AI",Strategy,"Ford/VW strategic pivot - Self-driving too expensive vs robotaxi economics marketrealist","Stretegic Miscalculation","weak stretegy + weak vision & planning",2600000000,$2.6B,6,$400B,2,-
+"Zume Pizza",Economics,"Unit economics failure - $17/pizza robot cost vs $12 market price marketrealist","External Blame","sharted the company without realising how much it will cost",482000000,$482M,5,$100B,1,-
+Juicero,Product,"Product viability failure - $700 juicer obsolete; bags squeeze by hand tech","External Blame","did do market research weak founders planning no USP",120000000,$120M,4,$10B,1,-
+MoviePass,"Cash burn","$1.5B losses on $10/month subs - Helium parent company bankruptcy tech","Financial Mismanagement",,68000000,$68M,8,$50B,2,-
+Homejoy,Lawsuits,"Class-action lawsuits - 5,056 cleaner lawsuits for employee misclassification tech","Bad Decisions",,40000000,$40M,5,$200B,1,-
+Beepi,Fraud,"Fraud/scaling - $8M accounting fraud; $100M losses on 10K cars thequickreport","Bad Decisions",,150000000,$150M,4,$1T,2,-
+Quirky,Costs,"Gross margin collapse - 40% COGS vs 25% target; Chapter 7 fastcompany","External Blame","why start a company without knowing unit economics",185000000,$185M,6,$50B,1,-
+"Yik Yak",Harassment,"User harassment - 100K+ reports led to advertiser exodus graffersid","Bad Decisions",,74000000,$74M,4,$50B,2,-
+Shyp,Economics,"Unit economics - $17/package cost vs $12 revenue graffersid","External Blame","WHY START A COMPANY WITHOUT UE",62000000,$62M,5,$500B,1,-
+Rdio,Competition,"Spotify competition - $200M cumulative losses; Chapter 11 fastcompany","Stretegic Miscalculation","no market research no USP",235000000,$235M,5,$50B,2,-
+Aereo,Legal,"Supreme Court ruling - 6-3 decision killed antenna service fastcompany","Bad Decisions",illigal,133000000,$133M,2,$50B,1,-
+Clinkle,Leadership,"Leadership chaos - 75% employee exodus after Sean Parker left tech",Multiple,"bad decision making and lack of stretegy a startup should be bigger than the founder",30000000,$30M,5,$500B,1,-
+Sprig,Competition,"Postmates/Uber competition - 70% cost reduction forced shutdown tech","External Blame","Dont start a company without usp and market research",56000000,$56M,4,$100B,1,-
+Fab.com,Pivot,"Pivot failure - Furniture pivot lost design customers alltopstartups","Stretegic Miscalculation",,336000000,$336M,7,$200B,2,-
+"Better Place",Battery,"Battery switching failure - 1,000 stations, 900 cars sold","Stretegic Miscalculation",,850000000,$850M,6,$10B,1,-
+Solyndra,Prices,"Chinese solar price crash - Polysilicon prices fell 90% thequickreport",Uncontrolled,,1200000000,$1.2B,6,$100B,3,-
+Webvan,Logistics,"Logistics burn - $1M/day losses; 28 warehouses unprofitable alltopstartups","Stretegic Miscalculation",,830000000,$830M,5,$100B,2,-
+Pets.com,Marketing,"Super Bowl ad disaster - $11M sock puppet campaign, $11M revenue alltopstartups",Multiple,,300000000,$300M,2,$20B,1,-
+"Luckin Coffee",Fraud,"$310M revenue fraud - Fabricated 39M transactions thequickreport","Bad Decisions",,500000000,$500M+,3,$50B,2,-
+Greensill,Insurance,"Credit insurance cancellation - $4.6B Greensill Capital exposure","Bad Decisions",,1700000000,$1.7B,10,$10T,1,-
+"Outcome Health",Fraud,"Ad fraud - 85% screen installation lies; $200M settlement","Bad Decisions",,487000000,$487M,9,$50B,2,-
+Arrivo,Funding,"Hyperloop One funding cut - Strategic pivot to tunnels graffersid","Stretegic Miscalculation",,1000000000,$1B,3,$1T,1,-
+IRL,Privacy,"Apple privacy changes - IDFA loss killed event targeting marketrealist",Multiple,,200000000,$200M,5,$50B,2,-
+Freshly,Acquired,"Nestle acquisition - $1.25B buyout ended independence marketrealist",Uncontrolled,,250000000,$250M,10,$50B,1,-
+CommonBond,COVID,"COVID student loan pause - 90% revenue from originations marketrealist",Uncontrolled,,500000000,$500M,9,$500B,2,-
+"Goldfinch Bio",Clinical,"Phase 2 trial failure - GFB-887 kidney drug missed endpoints marketrealist","Bad Decisions",,160000000,$160M,7,$100B,2,-
+Airlift,Funding,"Pakistan funding winter - VC capital evaporated post-COVID marketrealist","Stretegic Miscalculation",,85000000,$85M,3,$50B,2,-
+Reali,Rates,"Fed rate hikes - Mortgage originations collapsed 80% marketrealist","Stretegic Miscalculation",,370000000,$370M,7,$1T,2,-
+"Amp'd Mobile",Debt,"Prepaid phone debt - Missed $7M vendor payments alltopstartups",Multiple,,360000000,$360M,3,$50B,1,-
+Kozmo.com,Delivery,"Free delivery burn - $100M losses on $2 delivery fees alltopstartups",Multiple,,280000000,$280M,3,$100B,1,-
+eToys,Inventory,"Holiday inventory glut - $300M inventory vs $162M cash alltopstartups",Multiple,,166000000,$166M,4,$50B,2,-
+"Caspian Networks",Capex,"Carrier capex cuts - Post-dotcom telecom spending froze alltopstartups","Stretegic Miscalculation",,317000000,$317M,6,$100B,2,-
+Brience,Crash,"Dot-com crash - Enterprise software spend halted alltopstartups","Stretegic Miscalculation",,200000000,$200M,2,$50B,1,-
+Springpad,Competition,"Evernote competition - Server costs unsustainable tech","Stretegic Miscalculation",,7000000,$7M,6,$10B,2,-
+"Doppler Labs",Hardware,"Here One earbuds - Firmware issues, couldn't ship graffersid",Multiple,,51000000,$51M,4,$10B,2,-
+PepperTap,Competition,"Amazon/Flipkart entry - India grocery market consolidated graffersid","Stretegic Miscalculation",,51000000,$51M,2,$50B,2,-
+Northvolt,Delays,"Gigafactory delays - 18 months behind schedule","Stretegic Miscalculation",,13800000000,$13.8B,8,$500B,3,-
+Getir,Losses,"US/UK market exit - $1B+ annual losses",Multiple,,5500000000,$5.5B,9,$1T,1,-
+Byju's,Debt,"$1.2B debt default - Lenders seized US subsidiaries",Multiple,,5500000000,$5.5B,13,$100B,1,-

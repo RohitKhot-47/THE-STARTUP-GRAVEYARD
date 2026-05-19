@@ -1,0 +1,49 @@
+COMPANY NAME,INDUSTRY,MARKET SIZE,COUNTRY,COMPANY SIZE,FUNDED YEAR,SHUTDOWN YEAR,YEARS ACTIVE,TOTAL FUNDING,FUNDING ROUNDS,LAST FUNDING STAGE,FINAL FUNDING ,# FOUNDERS,FOUNDER NAMES,FOUNDERS LEFT,KEY EXEC DEPARTURE,OFFICIAL CAUSE (DETAILED),MAIN CAUSE
+WeWork,Real Estate,$7B,USA,"14,000",2010,2023,13,$12.9B,21,Debt ,$3B,2,"Adam Neumann, Miguel McKelvey",Adam Neumann,Neumann ousted,Chapter 11 bankruptcy - $19B lease obligations vs $4B revenue; 90% occupancy unsustainable forbes,Bankruptcy
+Theranos,Biotech,$39B,USA,800,2003,2018,15,$945M,7,Series D ,$100M,1,Elizabeth Holmes,-,Sunny Balwani,Criminal fraud charges - Blood testing device never worked; SEC fined $500K britannica,Fraud
+Quibi,Streaming,$50B,USA,400,2018,2020,2,$1.75B,2,Series A ,$1.75B,2,"Katzenberg, Whitman",-,-,Criminal fraud charges - Blood testing device never worked; SEC fined $500K britannica,No users
+Jawbone,Wearables,$50B,USA,350,1999,2017,18,$930M,9,Series E ,$120M,1,Hosain Rahman,-,-,Debt default - Missed $22M interest payment on $125M convertible debt wikipedia,Debt
+FTX,Crypto,$32T,Bahamas,"1,300",2019,2022,3,$1.8B,5,Series B ,$900M,1,Sam Bankman-Fried,-,-,$8B customer fund shortfall - Bankruptcy revealed commingled funds with Alameda Research,Fraud
+Wirecard,Fintech,$2T,Germany,"1,500",1999,2020,21,$1.9B,Public,IPO ,,2,"Marsalek, Braun",Marsalek,CEO resigned,"€1.9B ""missing"" from balance sheet - Auditor EY refused to sign off; CEO fled",Fraud
+Zenefits,HR Tech,$200B,USA,"1,200",2013,2022,9,$584M,6,Series C ,$150M,2,"Conrad, Huang",Parker Conrad,CEO resigned,SEC compliance violation - Sold insurance without licensed brokers; $500K fine,Regulation
+Katerra,Construction,$1T,USA,"4,000",2015,2021,6,$2B,8,Series E ,$800M,2,"Klein, Shigemitsu",-,-,Supply chain collapse - Missed $200M vendor payments; Chapter 11 marketrealist,Supply chain
+Argo AI,Autonomous,$400B,USA,"1,800",2016,2022,6,$2.6B,4,Corp round,,2,"Salesky, Burns",-,-,Ford/VW strategic pivot - Self-driving too expensive vs robotaxi economics marketrealist,Strategy
+Zume Pizza,Food Tech,$100B,USA,"1,600",2015,2020,5,$482M,6,Series D ,$375M,1,Alex Garden,-,-,Unit economics failure - $17/pizza robot cost vs $12 market price marketrealist,Economics
+Juicero,Consumer,$10B,USA,70,2013,2017,4,$120M,4,Series B ,$30M,1,Tom Zimerman,-,-,Product viability failure - $700 juicer obsolete; bags squeeze by hand tech,Product
+MoviePass,Media,$50B,USA,200,2011,2019,8,$68M,5,Late ,$30M,2,"Spikes, Strenger",-,CEO resigned,$1.5B losses on $10/month subs - Helium parent company bankruptcy tech,Cash burn
+Homejoy,Services,$200B,USA,140,2010,2015,5,$40M,3,Series A ,$20M,1,Adora Cheung,-,-,"Class-action lawsuits - 5,056 cleaner lawsuits for employee misclassification tech",Lawsuits
+Beepi,Auto,$1T,USA,150,2013,2017,4,$150M,5,Series C ,$60M,2,"Islam, Delna",-,-,Fraud/scaling - $8M accounting fraud; $100M losses on 10K cars thequickreport,Fraud
+Quirky,Crowdsourcing,$50B,USA,500,2009,2015,6,$185M,5,Series C ,$80M,1,Ben Kaufman,-,-,Gross margin collapse - 40% COGS vs 25% target; Chapter 7 fastcompany,Costs
+Yik Yak,Social,$50B,USA,50,2013,2017,4,$74M,3,Series B ,$50M,2,"Droll, Butterfield",-,-,User harassment - 100K+ reports led to advertiser exodus graffersid,Harassment
+Shyp,Logistics,$500B,USA,400,2013,2018,5,$62M,4,Series B ,$25M,1,Kevin Fang,-,-,Unit economics - $17/package cost vs $12 revenue graffersid,Economics
+Rdio,Music,$50B,USA,200,2010,2015,5,$235M,5,Late ,$50M,2,"Friis, Aristar",-,-,Spotify competition - $200M cumulative losses; Chapter 11 fastcompany,Competition
+Aereo,Media,$50B,USA,180,2012,2014,2,$133M,4,Series C ,$34M,1,Amir Toorab,-,-,Supreme Court ruling - 6-3 decision killed antenna service fastcompany,Legal
+Clinkle,Payments,$500B,USA,100,2011,2016,5,$30M,2,Series A ,$25M,1,Sean Parker,-,-,Leadership chaos - 75% employee exodus after Sean Parker left tech,Leadership
+Sprig,Food Delivery,$100B,USA,300,2013,2017,4,$56M,4,Series B ,$40M,1,Rafa de Corral,-,-,Postmates/Uber competition - 70% cost reduction forced shutdown tech,Competition
+Fab.com,E-commerce,$200B,USA,550,2010,2017,7,$336M,6,Late ,$150M,2,Jason Goldberg,-,CEO resigned,Pivot failure - Furniture pivot lost design customers alltopstartups,Pivot
+Better Place,EV Infra,$10B,Israel,"1,200",2007,2013,6,$850M,6,Series D,,1,Shai Agassi,-,-,"Battery switching failure - 1,000 stations, 900 cars sold",Battery
+Solyndra,Solar,$100B,USA,"1,500",2005,2011,6,$1.2B,5,Gov grants,,3,"Wofsy, Siva, Granger",-,-,Chinese solar price crash - Polysilicon prices fell 90% thequickreport,Prices
+Webvan,Grocery,$100B,USA,"2,000",1996,2001,5,$830M,4,IPO,,2,"Borders, Johnson",-,-,Logistics burn - $1M/day losses; 28 warehouses unprofitable alltopstartups,Logistics
+Pets.com,Pet E-comm,$20B,USA,320,1998,2000,2,$300M,3,IPO,,1,Julie Wainwright,-,-,"Super Bowl ad disaster - $11M sock puppet campaign, $11M revenue alltopstartups",Marketing
+Luckin Coffee,F&B,$50B,China,"8,000",2017,2020,3,$500M+,4,IPO,,2,"Qian Zhiya, Guo Sin",-,-,$310M revenue fraud - Fabricated 39M transactions thequickreport,Fraud
+Greensill,Fintech,$10T,Australia,"1,000",2011,2021,10,$1.7B,7,Late,,1,Lex Greensill,-,-,Credit insurance cancellation - $4.6B Greensill Capital exposure,Insurance
+Outcome Health,Healthcare,$50B,USA,800,2010,2019,9,$487M,6,Late,,2,Rishi Shah,-,-,Ad fraud - 85% screen installation lies; $200M settlement,Fraud
+Arrivo,Hyperloop,$1T,USA,200,2016,2019,3,$1B,3,Corp,,1,Brogan BamBrogan,-,-,Hyperloop One funding cut - Strategic pivot to tunnels graffersid,Funding
+IRL,Social,$50B,USA,100,2017,2022,5,$200M,4,Series C,,2,Abraham Shafi,-,-,Apple privacy changes - IDFA loss killed event targeting marketrealist,Privacy
+Freshly,Meal Kit,$50B,USA,"1,000",2012,2022,10,$250M,5,Late,,1,Michael Pertschuk,-,Acquired,Nestle acquisition - $1.25B buyout ended independence marketrealist,Acquired
+CommonBond,Fintech,$500B,USA,300,2011,2020,9,$500M,6,Late,,2,Matt Hogan,-,-,COVID student loan pause - 90% revenue from originations marketrealist,COVID
+Goldfinch Bio,Biotech,$100B,USA,150,2016,2023,7,$160M,4,Series C,,2,Jake Schreiber,-,-,Phase 2 trial failure - GFB-887 kidney drug missed endpoints marketrealist,Clinical
+Airlift,Delivery,$50B,Pakistan,500,2019,2022,3,$85M,3,Series B,,2,Ahmed Ashfaq,-,-,Pakistan funding winter - VC capital evaporated post-COVID marketrealist,Funding
+Reali,Real Estate,$1T,USA,300,2015,2022,7,$370M,5,Late,,2,Multiple,-,-,Fed rate hikes - Mortgage originations collapsed 80% marketrealist,Rates
+Amp'd Mobile,Telecom,$50B,USA,250,2005,2008,3,$360M,4,Late,,1,Anderson,-,-,Prepaid phone debt - Missed $7M vendor payments alltopstartups,Debt
+Kozmo.com,Delivery,$100B,USA,"2,000",1998,2001,3,$280M,4,Late,,1,Joseph Park,-,-,Free delivery burn - $100M losses on $2 delivery fees alltopstartups,Delivery
+eToys,E-comm,$50B,USA,"2,500",1997,2001,4,$166M,3,IPO,,2,Toby Lenk,-,-,Holiday inventory glut - $300M inventory vs $162M cash alltopstartups,Inventory
+Caspian Networks,Telecom,$100B,USA,"1,000",2000,2006,6,$317M,5,Late,,2,Multiple,-,-,Carrier capex cuts - Post-dotcom telecom spending froze alltopstartups,Capex
+Brience,Software,$50B,USA,400,1999,2001,2,$200M,3,Late,,1,Deepak Kumar,-,-,Dot-com crash - Enterprise software spend halted alltopstartups,Crash
+Springpad,Productivity,$10B,USA,50,2008,2014,6,$7M,2,Seed,,2,Amr Awadallah,-,-,Evernote competition - Server costs unsustainable tech,Competition
+Doppler Labs,Audio,$10B,USA,40,2013,2017,4,$51M,3,Series B,,2,Noah Kraft,-,-,"Here One earbuds - Firmware issues, couldn't ship graffersid",Hardware
+PepperTap,Grocery,$50B,India,200,2014,2016,2,$51M,3,Series B,,2,Avni Singh,-,-,Amazon/Flipkart entry - India grocery market consolidated graffersid,Competition
+Northvolt,Batteries,$500B,Sweden,"4,500",2016,2024,8,$13.8B,10,Late,,3,"Paunila, Laurén, Vogt",-,-,Gigafactory delays - 18 months behind schedule,Delays
+Getir,Delivery,$1T,Turkey,"12,000",2015,2024,9,$5.5B,8,Late,,1,Naz?m Salur,-,-,US/UK market exit - $1B+ annual losses,Losses
+Byju's,Edtech,$100B,India,"10,000",2011,2024,13,$5.5B,15,Late,,1,Byju Raveendran,-,-,$1.2B debt default - Lenders seized US subsidiaries,Debt
+SunEdison,Solar,$1T,USA,"15,000",1984,2016,32,$12B+,Public,Debt,,1,Jigar Shah,-,CEO resigned,$16B project pipeline - $2B quarterly debt service,Debt
